@@ -1,1 +1,6 @@
 This will contain the full list of parts, partnumbers, links to parts and models for the parts.
+
+1) Teyleten Robot ESP32-C3
+2) Chanzon High Power LED Chop 4x3W RGBM 8pin
+3) Foriot 18650 Batter Holder
+4) Power Switch (TBD)
